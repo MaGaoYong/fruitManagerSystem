@@ -1,5 +1,6 @@
 # fruitManagerSystem
 特别简单的水果管理系统
+这是尚硅谷JavaWeb课程中的第一个水果系统，以下是课堂笔记。
 review:
 1. Servlet生命周期中的初始化方法： init() ， init(config)
    public void init(ServletConfig config) throws ServletException {
